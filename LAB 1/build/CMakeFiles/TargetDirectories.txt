@@ -1,0 +1,13 @@
+/Users/sedimav/turkish_numbers/build/CMakeFiles/lab1_exe.dir
+/Users/sedimav/turkish_numbers/build/CMakeFiles/tests.dir
+/Users/sedimav/turkish_numbers/build/CMakeFiles/test.dir
+/Users/sedimav/turkish_numbers/build/CMakeFiles/edit_cache.dir
+/Users/sedimav/turkish_numbers/build/CMakeFiles/rebuild_cache.dir
+/Users/sedimav/turkish_numbers/build/_deps/googletest-build/CMakeFiles/test.dir
+/Users/sedimav/turkish_numbers/build/_deps/googletest-build/CMakeFiles/edit_cache.dir
+/Users/sedimav/turkish_numbers/build/_deps/googletest-build/CMakeFiles/rebuild_cache.dir
+/Users/sedimav/turkish_numbers/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir
+/Users/sedimav/turkish_numbers/build/_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir
+/Users/sedimav/turkish_numbers/build/_deps/googletest-build/googletest/CMakeFiles/test.dir
+/Users/sedimav/turkish_numbers/build/_deps/googletest-build/googletest/CMakeFiles/edit_cache.dir
+/Users/sedimav/turkish_numbers/build/_deps/googletest-build/googletest/CMakeFiles/rebuild_cache.dir

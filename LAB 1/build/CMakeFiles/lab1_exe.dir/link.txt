@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/lab1_exe.dir/main.cpp.o CMakeFiles/lab1_exe.dir/turkish_number_converter.cpp.o -o lab1_exe
