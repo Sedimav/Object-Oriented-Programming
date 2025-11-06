@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/lab3_exe.dir/main.c++.o -o lab3_exe  liblab3_lib.a

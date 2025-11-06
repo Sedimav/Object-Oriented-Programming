@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblab3_lib.a CMakeFiles/lab3_lib.dir/figures.c++.o
+/usr/bin/ranlib liblab3_lib.a

@@ -1,0 +1,14 @@
+/Users/sedimav/figures/build/CMakeFiles/lab3_lib.dir
+/Users/sedimav/figures/build/CMakeFiles/lab3_exe.dir
+/Users/sedimav/figures/build/CMakeFiles/tests.dir
+/Users/sedimav/figures/build/CMakeFiles/test.dir
+/Users/sedimav/figures/build/CMakeFiles/edit_cache.dir
+/Users/sedimav/figures/build/CMakeFiles/rebuild_cache.dir
+/Users/sedimav/figures/build/_deps/googletest-build/CMakeFiles/test.dir
+/Users/sedimav/figures/build/_deps/googletest-build/CMakeFiles/edit_cache.dir
+/Users/sedimav/figures/build/_deps/googletest-build/CMakeFiles/rebuild_cache.dir
+/Users/sedimav/figures/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir
+/Users/sedimav/figures/build/_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir
+/Users/sedimav/figures/build/_deps/googletest-build/googletest/CMakeFiles/test.dir
+/Users/sedimav/figures/build/_deps/googletest-build/googletest/CMakeFiles/edit_cache.dir
+/Users/sedimav/figures/build/_deps/googletest-build/googletest/CMakeFiles/rebuild_cache.dir
