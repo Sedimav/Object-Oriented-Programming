@@ -1,0 +1,55 @@
+Start testing: Oct 28 13:24 MSK
+----------------------------------------------------------
+1/1 Testing: TwelveTests
+1/1 Test: TwelveTests
+Command: "/Users/sedimav/twelve/build/tests"
+Directory: /Users/sedimav/twelve/build
+"TwelveTests" start time: Oct 28 13:24 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/sedimav/twelve/build/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 14 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 14 tests from TwelveTest
+[ RUN      ] TwelveTest.DefaultConstructor
+[       OK ] TwelveTest.DefaultConstructor (0 ms)
+[ RUN      ] TwelveTest.SizeConstructor
+[       OK ] TwelveTest.SizeConstructor (0 ms)
+[ RUN      ] TwelveTest.InitializerListConstructor
+[       OK ] TwelveTest.InitializerListConstructor (0 ms)
+[ RUN      ] TwelveTest.StringConstructor
+[       OK ] TwelveTest.StringConstructor (0 ms)
+[ RUN      ] TwelveTest.CopyConstructor
+[       OK ] TwelveTest.CopyConstructor (0 ms)
+[ RUN      ] TwelveTest.MoveConstructor
+[       OK ] TwelveTest.MoveConstructor (0 ms)
+[ RUN      ] TwelveTest.AddOperation
+[       OK ] TwelveTest.AddOperation (0 ms)
+[ RUN      ] TwelveTest.SubtractOperation
+[       OK ] TwelveTest.SubtractOperation (0 ms)
+[ RUN      ] TwelveTest.ComparisonOperations
+[       OK ] TwelveTest.ComparisonOperations (0 ms)
+[ RUN      ] TwelveTest.InvalidInput
+[       OK ] TwelveTest.InvalidInput (0 ms)
+[ RUN      ] TwelveTest.LeadingZeros
+[       OK ] TwelveTest.LeadingZeros (0 ms)
+[ RUN      ] TwelveTest.EdgeCases
+[       OK ] TwelveTest.EdgeCases (0 ms)
+[ RUN      ] TwelveTest.AddAssign
+[       OK ] TwelveTest.AddAssign (0 ms)
+[ RUN      ] TwelveTest.SubtractAssign
+[       OK ] TwelveTest.SubtractAssign (0 ms)
+[----------] 14 tests from TwelveTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 14 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 14 tests.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"TwelveTests" end time: Oct 28 13:24 MSK
+"TwelveTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 28 13:24 MSK

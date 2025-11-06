@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/tests.dir/test_twelve.cpp.o CMakeFiles/tests.dir/twelve.cpp.o -o tests  lib/libgtest.a lib/libgtest_main.a lib/libgtest.a

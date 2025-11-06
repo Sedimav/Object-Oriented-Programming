@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/sedimav/twelve/build/cmake_install.cmake",
+		"/Users/sedimav/twelve/build/_deps/googletest-build/cmake_install.cmake",
+		"/Users/sedimav/twelve/build/_deps/googletest-build/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
