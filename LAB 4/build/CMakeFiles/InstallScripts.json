@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/sedimav/Desktop/\u041e\u041e\u041f/LAB 4/figures2/build/cmake_install.cmake",
+		"/Users/sedimav/Desktop/\u041e\u041e\u041f/LAB 4/figures2/build/_deps/googletest-build/cmake_install.cmake",
+		"/Users/sedimav/Desktop/\u041e\u041e\u041f/LAB 4/figures2/build/_deps/googletest-build/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

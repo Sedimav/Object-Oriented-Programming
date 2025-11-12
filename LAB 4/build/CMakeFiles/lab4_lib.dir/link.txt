@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblab4_lib.a CMakeFiles/lab4_lib.dir/figures.c++.o
+/usr/bin/ranlib liblab4_lib.a

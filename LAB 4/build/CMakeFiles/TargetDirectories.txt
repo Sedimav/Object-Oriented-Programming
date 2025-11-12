@@ -1,0 +1,14 @@
+/Users/sedimav/Desktop/ООП/LAB 4/figures2/build/CMakeFiles/lab4_lib.dir
+/Users/sedimav/Desktop/ООП/LAB 4/figures2/build/CMakeFiles/lab4_exe.dir
+/Users/sedimav/Desktop/ООП/LAB 4/figures2/build/CMakeFiles/tests.dir
+/Users/sedimav/Desktop/ООП/LAB 4/figures2/build/CMakeFiles/test.dir
+/Users/sedimav/Desktop/ООП/LAB 4/figures2/build/CMakeFiles/edit_cache.dir
+/Users/sedimav/Desktop/ООП/LAB 4/figures2/build/CMakeFiles/rebuild_cache.dir
+/Users/sedimav/Desktop/ООП/LAB 4/figures2/build/_deps/googletest-build/CMakeFiles/test.dir
+/Users/sedimav/Desktop/ООП/LAB 4/figures2/build/_deps/googletest-build/CMakeFiles/edit_cache.dir
+/Users/sedimav/Desktop/ООП/LAB 4/figures2/build/_deps/googletest-build/CMakeFiles/rebuild_cache.dir
+/Users/sedimav/Desktop/ООП/LAB 4/figures2/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir
+/Users/sedimav/Desktop/ООП/LAB 4/figures2/build/_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir
+/Users/sedimav/Desktop/ООП/LAB 4/figures2/build/_deps/googletest-build/googletest/CMakeFiles/test.dir
+/Users/sedimav/Desktop/ООП/LAB 4/figures2/build/_deps/googletest-build/googletest/CMakeFiles/edit_cache.dir
+/Users/sedimav/Desktop/ООП/LAB 4/figures2/build/_deps/googletest-build/googletest/CMakeFiles/rebuild_cache.dir

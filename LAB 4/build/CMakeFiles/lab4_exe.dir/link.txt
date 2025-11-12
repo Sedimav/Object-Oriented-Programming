@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/lab4_exe.dir/main.c++.o -o lab4_exe  liblab4_lib.a
