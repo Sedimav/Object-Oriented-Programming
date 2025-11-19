@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/sedimav/Desktop/\u041e\u041e\u041f/LAB5/build/cmake_install.cmake",
+		"/Users/sedimav/Desktop/\u041e\u041e\u041f/LAB5/build/_deps/googletest-build/cmake_install.cmake",
+		"/Users/sedimav/Desktop/\u041e\u041e\u041f/LAB5/build/_deps/googletest-build/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

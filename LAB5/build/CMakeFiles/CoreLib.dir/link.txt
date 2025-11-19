@@ -1,0 +1,2 @@
+/usr/bin/ar qc libCoreLib.a CMakeFiles/CoreLib.dir/func.c++.o
+/usr/bin/ranlib libCoreLib.a
