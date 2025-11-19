@@ -1,9 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/Users/sedimav/turkish_numbers/build/cmake_install.cmake",
-		"/Users/sedimav/turkish_numbers/build/_deps/googletest-build/cmake_install.cmake",
-		"/Users/sedimav/turkish_numbers/build/_deps/googletest-build/googletest/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
