@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/lab6.dir/main.cpp.o CMakeFiles/lab6.dir/func.cpp.o -o lab6

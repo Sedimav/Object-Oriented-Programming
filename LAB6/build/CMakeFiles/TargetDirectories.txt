@@ -1,0 +1,5 @@
+/Users/sedimav/Desktop/ООП/LAB6/build/CMakeFiles/lab6.dir
+/Users/sedimav/Desktop/ООП/LAB6/build/CMakeFiles/tests.dir
+/Users/sedimav/Desktop/ООП/LAB6/build/CMakeFiles/test.dir
+/Users/sedimav/Desktop/ООП/LAB6/build/CMakeFiles/edit_cache.dir
+/Users/sedimav/Desktop/ООП/LAB6/build/CMakeFiles/rebuild_cache.dir

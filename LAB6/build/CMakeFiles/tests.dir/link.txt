@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/tests.dir/tests.cpp.o CMakeFiles/tests.dir/func.cpp.o -o tests  /usr/local/lib/libgtest.a -lpthread
